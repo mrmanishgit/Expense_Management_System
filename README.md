@@ -44,4 +44,4 @@ I worked on the **backend**, implementing:
 - Database integration with MySQL using Hibernate.
 - Separation of Admin and User functionalities.
 ---- ----------------- ----------------- -------------------------------
-Contact-7205294038  Email:manishmaharana680@gmail.com
+Contact-7205294038              Email: manishmaharana680@gmail.com
