@@ -34,9 +34,6 @@ c3851a3d)
 
 ---![Screenshot (94)](https://github.com/user-attachments/assets/ca96faf0-5d34-437d-9a86-b87ba12fd295)
 
-![Screenshot (9<img width="624" alt="134234976-a64790bb-60dd-45bf-af77-88ab2dbf4674" src="https://github.com/user-attachments/assets/76a87cf6-cd53-4f10-93be-9e3d9970dc12" />
-<img width="624" alt="134234976-a64790bb-60dd-45bf-af77-88ab2dbf4674" src="https://github.com/user-attachments/assets/c5a88750-4f74-4fa3-bc5d-b45ffd33cd11" />
-
 ![134234881-edd20a1f-6d4d-4796-acec-9d2fe5d4621b](https://github.com/user-attachments/assets/4a00450b-6c7c-4487-be84-19cb0f2033a6)
 
 
@@ -46,3 +43,5 @@ I worked on the **backend**, implementing:
 - RESTful APIs for expense and user management.
 - Database integration with MySQL using Hibernate.
 - Separation of Admin and User functionalities.
+---- ----------------- ----------------- -------------------------------
+Contact-7205294038  Email:manishmaharana680@gmail.com
