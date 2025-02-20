@@ -24,17 +24,21 @@ An **Expense Management System** designed to streamline expense tracking and man
 - **Frontend**: React.js (Interactive UI)
 - **Database**: MySQL
 - **Tools**: Swagger (API Documentation), Postman (Testing)
-![Screenshot (90)](https://github.com/user-attachments/assets/c0810593-b022-4fe3-87f5-40e25b1f3e9e)![Screenshot (94)](https://github.com/user-attachments/assets/9![Screenshot (95)](https://github.com/user-attachments/assets/9aca8991-6d43-4277-b2c7-b9ed9f545e26)
-45f54f4-c098-4fb8-8032-b1d294706ae3)
+![Screenshot (90)](https://github.com/user-attachments/assets/21effbe3-51a9-4075-bdfd-55b7e75faf0a)
+![Screenshot (91)](https://github.com/user-attachments/assets/4bd6ace8-f6cc-45f7-a169-072ad1e47311)
+c3851a3d)
 
-![Screenshot (91)](https:![Screenshot (93)](https://github.com/user-attachments/assets/b595eb18-52ea-4435-bac4-95d49a85dff6)
-/![Screenshot (92)](https://github.com/user-attachments/assets/73284974-c321-46ec-90bb-1a38ef0e9290)
-/github.com/user-attachments/assets/1dbfe636-88f7-43d1-a1ea-b9f66932cf92)
-<img width="624" alt="134234976-a64790bb-60dd-45bf-af77-88ab2dbf4674" src="https://github.com/user-attachments/assets/102af24a-4869-44b2-bf55-2f10ad61d9bc" />
+![Screenshot (92)](https://github.com/user-attachments/assets/856df17f-4288-4596-a27c-742a54ebba38)
 
-![134234881-edd20a1f-6d4d-4796-acec-9d2fe5d4621b](https://github.com/user-attachments/assets/d5d27dfe-1b0a-48fa-a0c1-7e2a0869d4e8)
+![Screenshot (93)](https://github.com/user-attachments/assets/41d57e05-86ab-4aa4-b942-95c394ef8b3d)
 
----
+---![Screenshot (94)](https://github.com/user-attachments/assets/ca96faf0-5d34-437d-9a86-b87ba12fd295)
+
+![Screenshot (9<img width="624" alt="134234976-a64790bb-60dd-45bf-af77-88ab2dbf4674" src="https://github.com/user-attachments/assets/76a87cf6-cd53-4f10-93be-9e3d9970dc12" />
+<img width="624" alt="134234976-a64790bb-60dd-45bf-af77-88ab2dbf4674" src="https://github.com/user-attachments/assets/c5a88750-4f74-4fa3-bc5d-b45ffd33cd11" />
+
+![134234881-edd20a1f-6d4d-4796-acec-9d2fe5d4621b](https://github.com/user-attachments/assets/4a00450b-6c7c-4487-be84-19cb0f2033a6)
+
 
 ## 🧑‍💻 My Role
 
