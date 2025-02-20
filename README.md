@@ -36,6 +36,8 @@ c3851a3d)
 
 ![134234881-edd20a1f-6d4d-4796-acec-9d2fe5d4621b](https://github.com/user-attachments/assets/4a00450b-6c7c-4487-be84-19cb0f2033a6)
 
+<img width="624" alt="134234976-a64790bb-60dd-45bf-af77-88ab2dbf4674" src="https://github.com/user-attachments/assets/a554d96c-6efe-4f9e-aae0-52deeb50ddd3" />
+
 
 ## 🧑‍💻 My Role
 
