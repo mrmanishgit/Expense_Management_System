@@ -3,7 +3,6 @@
 An **Expense Management System** designed to streamline expense tracking and management. Developed as part of the **Infosys Springboard SDE Internship**, the system uses **React** for the frontend, **Spring Boot** for the backend, and **MySQL** for database management. This project supports separate functionalities for **Admin** and **User** roles.
 
 ---
-
 ## 🚀 Features
 
 ### User Features:
